@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "wiki-tech",
+  title: "Wiki-Tech",
   description: "Projeto wiki tech",
 };
 
